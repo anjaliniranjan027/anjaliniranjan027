@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @anjaliniranjan027
 -👀 I’m interested in Data Analytics.
--🌱 I’m currently learning data-driven solutions and improving my coding skills.
--💞️ I’m looking to collaborate on projects that challenge my creativity and problem-solving.
--📫 How to reach me: GitHub or [anjali17072003@gmail.com]
+-🌱 I’m currently learning.
+-💞️ I’m looking to collaborate.
+-📫 How to reach me: GitHub 
 -😄 Pronouns: She/Her
 -⚡ Fun fact: I once spent an entire day debugging code... only to realize I forgot a semicolon.
 
